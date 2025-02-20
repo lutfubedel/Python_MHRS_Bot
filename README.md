@@ -9,7 +9,9 @@ Bu proje, Python kullanarak MHRS (Merkezi Hekim Randevu Sistemi) üzerinde belir
 - **Kolay Kullanım:** Basit bir yapılandırma dosyası ile kişiselleştirilebilir.
 
 ## Görseller
-![Telgram Görseli](./img/img1.jpg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./img/img_1.jpg" alt="Telegram Botu" width="400">
+</div>
 
 
 ## Lisans
