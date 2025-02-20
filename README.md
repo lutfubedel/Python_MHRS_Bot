@@ -10,7 +10,7 @@ Bu proje, Python kullanarak MHRS (Merkezi Hekim Randevu Sistemi) üzerinde belir
 
 ## Görseller
 <div style="display: flex; justify-content: space-around;">
-  <img src="./img/img_1.jpg" alt="Telegram Botu" width="400">
+  <img src="./img/img1.jpg" alt="Telegram Botu" width="400">
 </div>
 
 
